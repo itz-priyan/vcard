@@ -1214,6 +1214,9 @@ textarea.form-input::-webkit-resizer { display: none; }
   padding-bottom: 30%;
   padding-left: 7px;
 }
+.social-lists-box { margin-bottom: 10px; }
+
+.social-lists-box img { margin: auto; }
 
 .form-btn ion-icon { font-size: 16px; }
 
